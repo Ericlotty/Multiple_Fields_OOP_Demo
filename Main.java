@@ -1,3 +1,4 @@
+package MultipleFieldsOOP_Demo;
 //Introduction to classes: Multiple fields
 public class Main{
   public static void main(String[] args) {    
